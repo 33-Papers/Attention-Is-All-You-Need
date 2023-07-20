@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5d165db-7d8f-4dbb-9bca-1019faf2c2e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Attention-Is-All-You-Need.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ffn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +86,7 @@
       <workItem from="1689780538404" duration="10502000" />
       <workItem from="1689796917584" duration="3733000" />
       <workItem from="1689801228501" duration="2388000" />
-      <workItem from="1689837445530" duration="10476000" />
+      <workItem from="1689837445530" duration="10734000" />
     </task>
     <servers />
   </component>
