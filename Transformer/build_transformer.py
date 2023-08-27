@@ -1,14 +1,14 @@
 import torch.nn as nn
-from input_embeddings import InputEmbeddings
-from positional_encoding import PositionalEncoding
-from multi_head_attention import MultiHeadAttentionBlock
-from feed_forward import FeedForwardBlock
-from encoder_block import EncoderBlock
-from decoder_block import DecoderBlock
-from encoder import Encoder
-from decoder import Decoder
-from projection_layer import ProjectionLayer
-from transformer import Transformer
+from Transformer.input_embeddings import InputEmbeddings
+from Transformer.positional_encoding import PositionalEncoding
+from Transformer.multi_head_attention import MultiHeadAttentionBlock
+from Transformer.feed_forward import FeedForwardBlock
+from Transformer.encoder_block import EncoderBlock
+from Transformer.decoder_block import DecoderBlock
+from Transformer.encoder import Encoder
+from Transformer.decoder import Decoder
+from Transformer.projection_layer import ProjectionLayer
+from Transformer.transformer import Transformer
 
 
 def build_transformer(src_vocab_size: int, tgt_vocab_size: int, src_seq_len: int, tgt_seq_len: int, d_model: int = 512,
